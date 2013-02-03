@@ -1,0 +1,2 @@
+six
+plumbum>=1.0
